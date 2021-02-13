@@ -84,7 +84,7 @@
 .switch {
     position: relative;
     display: inline-block;
-    width: 50px;
+    width: 52px;
     height: 28px;
   }
   
@@ -136,7 +136,7 @@
   
   /* Rounded sliders */
   .slider.round {
-    border-radius: 34px;
+    border-radius: 32px;
   }
   
   .slider.round:before {
